@@ -1,2 +1,2 @@
 my second README
-Just a second update
+- Just a second update
